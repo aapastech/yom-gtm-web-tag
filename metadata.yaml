@@ -1,3 +1,5 @@
 homepage: 'https://yom.aapastech.com/'
 documentation: 'https://github.com/aapastech/yom-gtm-web-tag#readme'
-versions: []
+versions:
+  - sha: 56db5733987a1641f5365e5587a49314491605ca
+    changeNotes: "Initial release."
